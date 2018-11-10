@@ -1,0 +1,2 @@
+# TechnologieProgramowania
+zadania
